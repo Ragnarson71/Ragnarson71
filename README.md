@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ragnarson71
-- 👀 I’m interested in R3 Corda Smart Contracts for the Real Estate Industry
-- 🌱 I’m currently studying a MSc Cybersecurity and Human Factor at Bournemouth UNiversity
-- 💞️ I’m looking to collaborate on the development of Smart Contracts using R3 Corda 
+- 👀 I’m interested in Smart Contracts tecnology, maily for R3 Corda e Ethereum and therefore I need to learn Java and Solidity really well.
+- 🌱 I’ve completed a MSc Cybersecurity and Human Factor in May 2002 at Bournemouth University.
+- 💞️ I’m looking to learn and collaborate on the development of Smart Contracts.
 - 📫 How to reach me? Reach me here!
 
 <!---
